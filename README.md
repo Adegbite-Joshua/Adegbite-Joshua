@@ -1,4 +1,8 @@
-# Hi there 👋  
+<img align="right" height="150" src="https://adegbitejoshua.com.ng/image.png" style="border-radius: 50%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15); margin: 10px;" alt="Joshua Adegbite" />
+
+---
+
+### Hi there 👋  
 
 I'm **Joshua Adegbite**, a passionate Full Stack Software Engineer with over 2 years of experience building scalable web applications. I specialize in creating client and server-side solutions using modern frameworks like **React**, **Angular**, **Laravel**, and **Node.js**.  
 
@@ -112,12 +116,12 @@ I'm **Joshua Adegbite**, a passionate Full Stack Software Engineer with over 2 y
 
 ###
 
-<img align="right" height="150" src="https://adegbitejoshua.com.ng/image.png"  />
-
-###
-
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Adegbite-Joshua/Adegbite-Joshua/output/snake.svg" alt="Snake animation" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adegbite-Joshua/Adegbite-Joshua/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adegbite-Joshua/Adegbite-Joshua/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Adegbite-Joshua/Adegbite-Joshua/output/github-snake.svg" />
+</picture>
 ###
