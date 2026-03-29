@@ -1,4 +1,4 @@
-<img align="right" height="150" src="[https://adegbitejoshua.vercel.app/image.png](https://avatars.githubusercontent.com/u/125822043?v=4)" style="border-radius: 50%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15); margin: 10px;" alt="Joshua Adegbite" />
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/125822043?v=4" style="border-radius: 50%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15); margin: 10px;" alt="Joshua Adegbite" />
 
 ---
 
